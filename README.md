@@ -1,5 +1,3 @@
-[(./git-image.png)](https://mahfuzinfo.vercel.app/)
-
 ### Mahfuzur Rahman || frotend developer
 
 #### Welcome to my Github Profile
