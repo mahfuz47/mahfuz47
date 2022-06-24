@@ -1,4 +1,4 @@
-[![Mahfuz's GitHub Banner](./git-image.png)](https://mahfuzinfo.vercel.app/)
+[(./git-image.png)](https://mahfuzinfo.vercel.app/)
 
 ### Mahfuzur Rahman || frotend developer
 
