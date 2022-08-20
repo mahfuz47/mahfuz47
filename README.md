@@ -1,5 +1,5 @@
 <!-- Welcome Message  -->
-<h1>Hey! I'm Saidur</h1>
+<h1>Hey! I'm Mahfuzur Rahman</h1>
 
 - 💻 Full Stack Developer at Genres
 - 😍 Programming lover
