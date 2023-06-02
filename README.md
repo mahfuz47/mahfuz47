@@ -58,11 +58,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahfuz47&theme=tokyonight)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuz47&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuz47&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/mahfuz-47/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/mahfuz-47/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/mahfuz-47/output/github-contribution-grid-snake.svg">
-</picture>
 
