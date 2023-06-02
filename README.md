@@ -52,7 +52,7 @@
 
 ## My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz47&hide_border=true&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz47&hide_border=true&theme=tokyonight) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuz47&show_icons=true&hide_border=true&theme=tokyonight)
 
