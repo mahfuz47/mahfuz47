@@ -1,10 +1,10 @@
 <!-- Welcome Message  -->
 <h1>Hello!</h1>
-<h1>I'm Mahfuzur Rahman</h1>
+<h1>I'm Mahfuz Rahman</h1>
 
-- 💻 Full Stack Developer at Genres
-- 😍 Programming lover
-- ⚡ I love learning new technologies
+- 🔥 A Professional Frontend Developer
+- 💻 Web Application Developer at Genres
+- ⚡ Dedicated team leader
 - 📫 Email mahfuzshikder560@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz47&label=Profile%20views&color=E4405F&style=flat" alt="mahfuz47" /> </p>
 
